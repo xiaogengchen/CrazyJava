@@ -1,0 +1,1 @@
+javadoc -d apidoc -windowtitle 窗口标题 -doctitle api文档标题 -header 文档头信息 *.java -encoding UTF-8 -charset UTF-8  
